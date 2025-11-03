@@ -1,3 +1,4 @@
+````markdown
 # 🌐 Flutter Portfolio — Ridwan Fadhilah
 
 A modern, responsive **Flutter Web Portfolio** showcasing my projects, skills, and contact details.  
@@ -43,3 +44,39 @@ flutter run -d chrome
 
 # 4. Or build for release
 flutter build web
+````
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ ┣ pages/
+ ┃ ┗ home.dart
+ ┣ widgets/
+ ┃ ┣ navbar.dart
+ ┃ ┣ hero_section.dart
+ ┃ ┣ about_section.dart
+ ┃ ┣ project_section.dart
+ ┃ ┣ footer.dart
+ ┃ ┗ section_title.dart
+ ┗ main.dart
+```
+
+---
+
+## 🧑‍💻 Author
+
+**Ridwan Fadhilah**
+Flutter Developer
+📧 [rfadhilah86@gmail.com](mailto:rfadhilah86@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/ridwan-fadhilah) | [GitHub](https://github.com/uansmith) | [Upwork](https://www.upwork.com/freelancers/~01a99efcccd9f191a5)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**
+
+```
