@@ -60,17 +60,11 @@ lib/
  ┃ ┗ section_title.dart
  ┗ main.dart
 ```
-
+---
 ## Author
-- Ridwan Fadhilah
-- Flutter Developer
-- rfadhilah86@gmail.com
+Ridwan Fadhilah | Flutter Developer
+🔗 **[Email](mailto:rfadhilah86@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/ridwanfadh/)** | **[GitHub](https://github.com/uansmith)** | **[Upwork](https://www.upwork.com/freelancers/~01a99efcccd9f191a5?mp_source=share)** or rfadhilah86@gmail.com
 
-🔗 LinkedIn
-**[GitHub](https://github.com/uansmith)**
-**[Upwork](https://www.upwork.com/freelancers/~01a99efcccd9f191a5?mp_source=share)**
-
-
+---
 ## 📄 License
-
 This project is licensed under the MIT License — see the **[LICENSE](https://github.com/uansmith/flutter-portfolio/blob/main/LICENSE)** file for details.
