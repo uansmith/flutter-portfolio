@@ -1,16 +1,16 @@
-[# 🌐 Flutter Portfolio — Ridwan Fadhilah
+Flutter Portfolio — Ridwan Fadhilah
 
 A modern, responsive **Flutter Web Portfolio** showcasing my projects, skills, and contact details.  
 Built entirely with Flutter, focusing on elegant design, performance, and clean animations.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 🔗 **[View Portfolio on Netlify](https://ridwanfadh.netlify.app/)**
 
 ---
 
-## 📱 Features
+## Features
 - ✨ Responsive layout (mobile, tablet, desktop)
 - 🎨 Smooth animations with Flutter
 - 💡 Hero, About, Projects, and Contact sections
@@ -19,18 +19,18 @@ Built entirely with Flutter, focusing on elegant design, performance, and clean 
 
 ---
 
-## 🧩 Tech Stack
-- **Framework:** Flutter 3.x
+## Tech Stack
+- **Framework:** Flutter 3.35.6
 - **Language:** Dart
 - **UI Design:** Material Design
 - **Hosting:** Netlify (manual deploy from `build/web`)
 
 ---
 
-## 🏗️ Build Instructions
+## Build Instructions
 If you want to run this locally:
 
-```bash
+```
 # 1. Clone the repository
 git clone https://github.com/uansmith/flutter-portfolio.git
 cd flutter-portfolio
@@ -44,7 +44,9 @@ flutter run -d chrome
 # 4. Or build for release
 flutter build web
 ](https://ridwanfadh.netlify.app/)
+```
 
+```
 Project Structure
 lib/
  ┣ pages/
@@ -57,19 +59,18 @@ lib/
  ┃ ┣ footer.dart
  ┃ ┗ section_title.dart
  ┗ main.dart
+```
 
-🧑‍💻 Author
-
-Ridwan Fadhilah
-Flutter Developer
-📧 rfadhilah86@gmail.com
+## Author
+- Ridwan Fadhilah
+- Flutter Developer
+- rfadhilah86@gmail.com
 
 🔗 LinkedIn
- | **[GitHub](https://github.com/uansmith)**
- | **[Upwork](https://www.upwork.com/freelancers/~01a99efcccd9f191a5?mp_source=share)**
+**[GitHub](https://github.com/uansmith)**
+**[Upwork](https://www.upwork.com/freelancers/~01a99efcccd9f191a5?mp_source=share)**
 
 
-📄 License
+## 📄 License
 
-This project is licensed under the MIT License — see the **[LICENSE](https://github.com/uansmith/flutter-portfolio/blob/main/LICENSE)**
- file for details.
+This project is licensed under the MIT License — see the **[LICENSE](https://github.com/uansmith/flutter-portfolio/blob/main/LICENSE)** file for details.
