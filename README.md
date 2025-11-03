@@ -6,7 +6,7 @@ Built entirely with Flutter, focusing on elegant design, performance, and clean 
 ---
 
 ## 🚀 Live Demo
-🔗 **[View Portfolio on Netlify](https://ridwanfadh-portfolio.netlify.app)**
+🔗 **[View Portfolio on Netlify](https://ridwanfadh.netlify.app/)**
 
 ---
 
